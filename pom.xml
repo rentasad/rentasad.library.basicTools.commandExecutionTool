@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <artifactId>rentasad.library.basicTools.commandExecutionTool</artifactId>
     <groupId>rentasad.library</groupId>
-    <version>3.0.0</version>
+    <version>3.0.1</version>
     <name>rentasad.library.basicTools.commandExecutionTool</name>
 
     <properties>
@@ -31,12 +31,6 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.9.3</version>
             <scope>test</scope>
-        </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.directory.studio/org.apache.commons.io -->
-        <dependency>
-            <groupId>org.apache.directory.studio</groupId>
-            <artifactId>org.apache.commons.io</artifactId>
-            <version>2.4</version>
         </dependency>
     </dependencies>
 
